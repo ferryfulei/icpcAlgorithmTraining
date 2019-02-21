@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SelectionSort.dir/SearchAndSort/SelectionSort.cpp.o  -o SelectionSort 

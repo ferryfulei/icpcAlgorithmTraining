@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DiceThrow.dir/DynamicProgramming/DiceThrow.cpp.o  -o DiceThrow 

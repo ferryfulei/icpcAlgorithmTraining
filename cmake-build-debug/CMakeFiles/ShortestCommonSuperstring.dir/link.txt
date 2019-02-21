@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ShortestCommonSuperstring.dir/DynamicProgramming/ShortestCommonSuperstring.cpp.o  -o ShortestCommonSuperstring 

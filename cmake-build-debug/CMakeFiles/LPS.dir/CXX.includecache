@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/homes/lf218/CLionProjects/untitled1/DynamicProgramming/LPS.cpp
+stdio.h
+-
+string.h
+-
+algorithm
+-
+

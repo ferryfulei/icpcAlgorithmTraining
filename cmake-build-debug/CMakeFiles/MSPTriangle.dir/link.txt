@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MSPTriangle.dir/DynamicProgramming/MSPTriangle.cpp.o  -o MSPTriangle 
