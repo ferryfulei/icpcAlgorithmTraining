@@ -48,10 +48,10 @@ RM = /usr/lib/clion-2018.2.2/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /homes/lf218/CLionProjects/untitled1
+CMAKE_SOURCE_DIR = /homes/lf218/Desktop/icpcAlgorithmTraining
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /homes/lf218/CLionProjects/untitled1/cmake-build-debug
+CMAKE_BINARY_DIR = /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,95 +111,134 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named CountPaths
+# Target rules for targets named 1754
 
 # Build rule for target.
-CountPaths: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 CountPaths
-.PHONY : CountPaths
+1754: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1754
+.PHONY : 1754
 
 # fast build rule for target.
-CountPaths/fast:
-	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/build
-.PHONY : CountPaths/fast
+1754/fast:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/build
+.PHONY : 1754/fast
 
 #=============================================================================
-# Target rules for targets named LPS
+# Target rules for targets named DiceThrow
 
 # Build rule for target.
-LPS: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LPS
-.PHONY : LPS
+DiceThrow: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 DiceThrow
+.PHONY : DiceThrow
 
 # fast build rule for target.
-LPS/fast:
-	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/build
-.PHONY : LPS/fast
+DiceThrow/fast:
+	$(MAKE) -f CMakeFiles/DiceThrow.dir/build.make CMakeFiles/DiceThrow.dir/build
+.PHONY : DiceThrow/fast
 
 #=============================================================================
-# Target rules for targets named MSPTriangle
+# Target rules for targets named MaxSumIS
 
 # Build rule for target.
-MSPTriangle: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 MSPTriangle
-.PHONY : MSPTriangle
+MaxSumIS: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MaxSumIS
+.PHONY : MaxSumIS
 
 # fast build rule for target.
-MSPTriangle/fast:
-	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/build
-.PHONY : MSPTriangle/fast
+MaxSumIS/fast:
+	$(MAKE) -f CMakeFiles/MaxSumIS.dir/build.make CMakeFiles/MaxSumIS.dir/build
+.PHONY : MaxSumIS/fast
 
 #=============================================================================
-# Target rules for targets named MergeSort
+# Target rules for targets named 546A
 
 # Build rule for target.
-MergeSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 MergeSort
-.PHONY : MergeSort
+546A: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 546A
+.PHONY : 546A
 
 # fast build rule for target.
-MergeSort/fast:
-	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/build
-.PHONY : MergeSort/fast
+546A/fast:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/build
+.PHONY : 546A/fast
 
 #=============================================================================
-# Target rules for targets named LCS3
+# Target rules for targets named QuickSort
 
 # Build rule for target.
-LCS3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LCS3
-.PHONY : LCS3
+QuickSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 QuickSort
+.PHONY : QuickSort
 
 # fast build rule for target.
-LCS3/fast:
-	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/build
-.PHONY : LCS3/fast
+QuickSort/fast:
+	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
+.PHONY : QuickSort/fast
 
 #=============================================================================
-# Target rules for targets named WordBreakProblem
+# Target rules for targets named InsertionSort
 
 # Build rule for target.
-WordBreakProblem: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 WordBreakProblem
-.PHONY : WordBreakProblem
+InsertionSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 InsertionSort
+.PHONY : InsertionSort
 
 # fast build rule for target.
-WordBreakProblem/fast:
-	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/build
-.PHONY : WordBreakProblem/fast
+InsertionSort/fast:
+	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/build
+.PHONY : InsertionSort/fast
 
 #=============================================================================
-# Target rules for targets named LobbNumber
+# Target rules for targets named PartitionProblem
 
 # Build rule for target.
-LobbNumber: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LobbNumber
-.PHONY : LobbNumber
+PartitionProblem: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PartitionProblem
+.PHONY : PartitionProblem
 
 # fast build rule for target.
-LobbNumber/fast:
-	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/build
-.PHONY : LobbNumber/fast
+PartitionProblem/fast:
+	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/build
+.PHONY : PartitionProblem/fast
+
+#=============================================================================
+# Target rules for targets named SelectionSort
+
+# Build rule for target.
+SelectionSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 SelectionSort
+.PHONY : SelectionSort
+
+# fast build rule for target.
+SelectionSort/fast:
+	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/build
+.PHONY : SelectionSort/fast
+
+#=============================================================================
+# Target rules for targets named 546E
+
+# Build rule for target.
+546E: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 546E
+.PHONY : 546E
+
+# fast build rule for target.
+546E/fast:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/build
+.PHONY : 546E/fast
+
+#=============================================================================
+# Target rules for targets named 546D
+
+# Build rule for target.
+546D: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 546D
+.PHONY : 546D
+
+# fast build rule for target.
+546D/fast:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/build
+.PHONY : 546D/fast
 
 #=============================================================================
 # Target rules for targets named BubbleSort
@@ -228,43 +267,82 @@ CountWays/fast:
 .PHONY : CountWays/fast
 
 #=============================================================================
-# Target rules for targets named SelectionSort
+# Target rules for targets named WordBreakProblem
 
 # Build rule for target.
-SelectionSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 SelectionSort
-.PHONY : SelectionSort
+WordBreakProblem: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 WordBreakProblem
+.PHONY : WordBreakProblem
 
 # fast build rule for target.
-SelectionSort/fast:
-	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/build
-.PHONY : SelectionSort/fast
+WordBreakProblem/fast:
+	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/build
+.PHONY : WordBreakProblem/fast
 
 #=============================================================================
-# Target rules for targets named PartitionProblem
+# Target rules for targets named 546B
 
 # Build rule for target.
-PartitionProblem: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 PartitionProblem
-.PHONY : PartitionProblem
+546B: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 546B
+.PHONY : 546B
 
 # fast build rule for target.
-PartitionProblem/fast:
-	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/build
-.PHONY : PartitionProblem/fast
+546B/fast:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/build
+.PHONY : 546B/fast
 
 #=============================================================================
-# Target rules for targets named InsertionSort
+# Target rules for targets named LCS3
 
 # Build rule for target.
-InsertionSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 InsertionSort
-.PHONY : InsertionSort
+LCS3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LCS3
+.PHONY : LCS3
 
 # fast build rule for target.
-InsertionSort/fast:
-	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/build
-.PHONY : InsertionSort/fast
+LCS3/fast:
+	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/build
+.PHONY : LCS3/fast
+
+#=============================================================================
+# Target rules for targets named MergeSort
+
+# Build rule for target.
+MergeSort: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MergeSort
+.PHONY : MergeSort
+
+# fast build rule for target.
+MergeSort/fast:
+	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/build
+.PHONY : MergeSort/fast
+
+#=============================================================================
+# Target rules for targets named 1394
+
+# Build rule for target.
+1394: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 1394
+.PHONY : 1394
+
+# fast build rule for target.
+1394/fast:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/build
+.PHONY : 1394/fast
+
+#=============================================================================
+# Target rules for targets named MSPTriangle
+
+# Build rule for target.
+MSPTriangle: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 MSPTriangle
+.PHONY : MSPTriangle
+
+# fast build rule for target.
+MSPTriangle/fast:
+	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/build
+.PHONY : MSPTriangle/fast
 
 #=============================================================================
 # Target rules for targets named ShortestCommonSuperstring
@@ -280,43 +358,69 @@ ShortestCommonSuperstring/fast:
 .PHONY : ShortestCommonSuperstring/fast
 
 #=============================================================================
-# Target rules for targets named QuickSort
+# Target rules for targets named main
 
 # Build rule for target.
-QuickSort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 QuickSort
-.PHONY : QuickSort
+main: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 main
+.PHONY : main
 
 # fast build rule for target.
-QuickSort/fast:
-	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
-.PHONY : QuickSort/fast
+main/fast:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
+.PHONY : main/fast
 
 #=============================================================================
-# Target rules for targets named DiceThrow
+# Target rules for targets named LPS
 
 # Build rule for target.
-DiceThrow: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 DiceThrow
-.PHONY : DiceThrow
+LPS: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LPS
+.PHONY : LPS
 
 # fast build rule for target.
-DiceThrow/fast:
-	$(MAKE) -f CMakeFiles/DiceThrow.dir/build.make CMakeFiles/DiceThrow.dir/build
-.PHONY : DiceThrow/fast
+LPS/fast:
+	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/build
+.PHONY : LPS/fast
 
 #=============================================================================
-# Target rules for targets named MaxSumIS
+# Target rules for targets named CountPaths
 
 # Build rule for target.
-MaxSumIS: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 MaxSumIS
-.PHONY : MaxSumIS
+CountPaths: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 CountPaths
+.PHONY : CountPaths
 
 # fast build rule for target.
-MaxSumIS/fast:
-	$(MAKE) -f CMakeFiles/MaxSumIS.dir/build.make CMakeFiles/MaxSumIS.dir/build
-.PHONY : MaxSumIS/fast
+CountPaths/fast:
+	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/build
+.PHONY : CountPaths/fast
+
+#=============================================================================
+# Target rules for targets named LobbNumber
+
+# Build rule for target.
+LobbNumber: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LobbNumber
+.PHONY : LobbNumber
+
+# fast build rule for target.
+LobbNumber/fast:
+	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/build
+.PHONY : LobbNumber/fast
+
+#=============================================================================
+# Target rules for targets named 546C
+
+# Build rule for target.
+546C: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 546C
+.PHONY : 546C
+
+# fast build rule for target.
+546C/fast:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/build
+.PHONY : 546C/fast
 
 DynamicProgramming/CountWays.o: DynamicProgramming/CountWays.cpp.o
 
@@ -615,6 +719,60 @@ DynamicProgramming/WordBreakProblem.cpp.s:
 	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/DynamicProgramming/WordBreakProblem.cpp.s
 .PHONY : DynamicProgramming/WordBreakProblem.cpp.s
 
+HDU/1394.o: HDU/1394.cpp.o
+
+.PHONY : HDU/1394.o
+
+# target to build an object file
+HDU/1394.cpp.o:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/HDU/1394.cpp.o
+.PHONY : HDU/1394.cpp.o
+
+HDU/1394.i: HDU/1394.cpp.i
+
+.PHONY : HDU/1394.i
+
+# target to preprocess a source file
+HDU/1394.cpp.i:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/HDU/1394.cpp.i
+.PHONY : HDU/1394.cpp.i
+
+HDU/1394.s: HDU/1394.cpp.s
+
+.PHONY : HDU/1394.s
+
+# target to generate assembly for a file
+HDU/1394.cpp.s:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/HDU/1394.cpp.s
+.PHONY : HDU/1394.cpp.s
+
+HDU/1754.o: HDU/1754.cpp.o
+
+.PHONY : HDU/1754.o
+
+# target to build an object file
+HDU/1754.cpp.o:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/HDU/1754.cpp.o
+.PHONY : HDU/1754.cpp.o
+
+HDU/1754.i: HDU/1754.cpp.i
+
+.PHONY : HDU/1754.i
+
+# target to preprocess a source file
+HDU/1754.cpp.i:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/HDU/1754.cpp.i
+.PHONY : HDU/1754.cpp.i
+
+HDU/1754.s: HDU/1754.cpp.s
+
+.PHONY : HDU/1754.s
+
+# target to generate assembly for a file
+HDU/1754.cpp.s:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/HDU/1754.cpp.s
+.PHONY : HDU/1754.cpp.s
+
 SearchAndSort/BubbleSort.o: SearchAndSort/BubbleSort.cpp.o
 
 .PHONY : SearchAndSort/BubbleSort.o
@@ -750,6 +908,168 @@ SearchAndSort/SelectionSort.cpp.s:
 	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/SearchAndSort/SelectionSort.cpp.s
 .PHONY : SearchAndSort/SelectionSort.cpp.s
 
+codeforces/546A.o: codeforces/546A.cpp.o
+
+.PHONY : codeforces/546A.o
+
+# target to build an object file
+codeforces/546A.cpp.o:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/codeforces/546A.cpp.o
+.PHONY : codeforces/546A.cpp.o
+
+codeforces/546A.i: codeforces/546A.cpp.i
+
+.PHONY : codeforces/546A.i
+
+# target to preprocess a source file
+codeforces/546A.cpp.i:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/codeforces/546A.cpp.i
+.PHONY : codeforces/546A.cpp.i
+
+codeforces/546A.s: codeforces/546A.cpp.s
+
+.PHONY : codeforces/546A.s
+
+# target to generate assembly for a file
+codeforces/546A.cpp.s:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/codeforces/546A.cpp.s
+.PHONY : codeforces/546A.cpp.s
+
+codeforces/546B.o: codeforces/546B.cpp.o
+
+.PHONY : codeforces/546B.o
+
+# target to build an object file
+codeforces/546B.cpp.o:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/codeforces/546B.cpp.o
+.PHONY : codeforces/546B.cpp.o
+
+codeforces/546B.i: codeforces/546B.cpp.i
+
+.PHONY : codeforces/546B.i
+
+# target to preprocess a source file
+codeforces/546B.cpp.i:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/codeforces/546B.cpp.i
+.PHONY : codeforces/546B.cpp.i
+
+codeforces/546B.s: codeforces/546B.cpp.s
+
+.PHONY : codeforces/546B.s
+
+# target to generate assembly for a file
+codeforces/546B.cpp.s:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/codeforces/546B.cpp.s
+.PHONY : codeforces/546B.cpp.s
+
+codeforces/546C.o: codeforces/546C.cpp.o
+
+.PHONY : codeforces/546C.o
+
+# target to build an object file
+codeforces/546C.cpp.o:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/codeforces/546C.cpp.o
+.PHONY : codeforces/546C.cpp.o
+
+codeforces/546C.i: codeforces/546C.cpp.i
+
+.PHONY : codeforces/546C.i
+
+# target to preprocess a source file
+codeforces/546C.cpp.i:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/codeforces/546C.cpp.i
+.PHONY : codeforces/546C.cpp.i
+
+codeforces/546C.s: codeforces/546C.cpp.s
+
+.PHONY : codeforces/546C.s
+
+# target to generate assembly for a file
+codeforces/546C.cpp.s:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/codeforces/546C.cpp.s
+.PHONY : codeforces/546C.cpp.s
+
+codeforces/546D.o: codeforces/546D.cpp.o
+
+.PHONY : codeforces/546D.o
+
+# target to build an object file
+codeforces/546D.cpp.o:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/codeforces/546D.cpp.o
+.PHONY : codeforces/546D.cpp.o
+
+codeforces/546D.i: codeforces/546D.cpp.i
+
+.PHONY : codeforces/546D.i
+
+# target to preprocess a source file
+codeforces/546D.cpp.i:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/codeforces/546D.cpp.i
+.PHONY : codeforces/546D.cpp.i
+
+codeforces/546D.s: codeforces/546D.cpp.s
+
+.PHONY : codeforces/546D.s
+
+# target to generate assembly for a file
+codeforces/546D.cpp.s:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/codeforces/546D.cpp.s
+.PHONY : codeforces/546D.cpp.s
+
+codeforces/546E.o: codeforces/546E.cpp.o
+
+.PHONY : codeforces/546E.o
+
+# target to build an object file
+codeforces/546E.cpp.o:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/codeforces/546E.cpp.o
+.PHONY : codeforces/546E.cpp.o
+
+codeforces/546E.i: codeforces/546E.cpp.i
+
+.PHONY : codeforces/546E.i
+
+# target to preprocess a source file
+codeforces/546E.cpp.i:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/codeforces/546E.cpp.i
+.PHONY : codeforces/546E.cpp.i
+
+codeforces/546E.s: codeforces/546E.cpp.s
+
+.PHONY : codeforces/546E.s
+
+# target to generate assembly for a file
+codeforces/546E.cpp.s:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/codeforces/546E.cpp.s
+.PHONY : codeforces/546E.cpp.s
+
+main.o: main.cpp.o
+
+.PHONY : main.o
+
+# target to build an object file
+main.cpp.o:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.o
+.PHONY : main.cpp.o
+
+main.i: main.cpp.i
+
+.PHONY : main.i
+
+# target to preprocess a source file
+main.cpp.i:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.i
+.PHONY : main.cpp.i
+
+main.s: main.cpp.s
+
+.PHONY : main.s
+
+# target to generate assembly for a file
+main.cpp.s:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
+.PHONY : main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -757,23 +1077,31 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... edit_cache"
-	@echo "... CountPaths"
-	@echo "... LPS"
-	@echo "... MSPTriangle"
-	@echo "... MergeSort"
-	@echo "... LCS3"
-	@echo "... WordBreakProblem"
-	@echo "... LobbNumber"
-	@echo "... BubbleSort"
-	@echo "... CountWays"
-	@echo "... SelectionSort"
-	@echo "... PartitionProblem"
-	@echo "... InsertionSort"
-	@echo "... ShortestCommonSuperstring"
-	@echo "... QuickSort"
+	@echo "... 1754"
 	@echo "... DiceThrow"
 	@echo "... MaxSumIS"
+	@echo "... 546A"
+	@echo "... edit_cache"
+	@echo "... QuickSort"
+	@echo "... InsertionSort"
+	@echo "... PartitionProblem"
+	@echo "... SelectionSort"
+	@echo "... 546E"
+	@echo "... 546D"
+	@echo "... BubbleSort"
+	@echo "... CountWays"
+	@echo "... WordBreakProblem"
+	@echo "... 546B"
+	@echo "... LCS3"
+	@echo "... MergeSort"
+	@echo "... 1394"
+	@echo "... MSPTriangle"
+	@echo "... ShortestCommonSuperstring"
+	@echo "... main"
+	@echo "... LPS"
+	@echo "... CountPaths"
+	@echo "... LobbNumber"
+	@echo "... 546C"
 	@echo "... DynamicProgramming/CountWays.o"
 	@echo "... DynamicProgramming/CountWays.i"
 	@echo "... DynamicProgramming/CountWays.s"
@@ -807,6 +1135,12 @@ help:
 	@echo "... DynamicProgramming/WordBreakProblem.o"
 	@echo "... DynamicProgramming/WordBreakProblem.i"
 	@echo "... DynamicProgramming/WordBreakProblem.s"
+	@echo "... HDU/1394.o"
+	@echo "... HDU/1394.i"
+	@echo "... HDU/1394.s"
+	@echo "... HDU/1754.o"
+	@echo "... HDU/1754.i"
+	@echo "... HDU/1754.s"
 	@echo "... SearchAndSort/BubbleSort.o"
 	@echo "... SearchAndSort/BubbleSort.i"
 	@echo "... SearchAndSort/BubbleSort.s"
@@ -822,6 +1156,24 @@ help:
 	@echo "... SearchAndSort/SelectionSort.o"
 	@echo "... SearchAndSort/SelectionSort.i"
 	@echo "... SearchAndSort/SelectionSort.s"
+	@echo "... codeforces/546A.o"
+	@echo "... codeforces/546A.i"
+	@echo "... codeforces/546A.s"
+	@echo "... codeforces/546B.o"
+	@echo "... codeforces/546B.i"
+	@echo "... codeforces/546B.s"
+	@echo "... codeforces/546C.o"
+	@echo "... codeforces/546C.i"
+	@echo "... codeforces/546C.s"
+	@echo "... codeforces/546D.o"
+	@echo "... codeforces/546D.i"
+	@echo "... codeforces/546D.s"
+	@echo "... codeforces/546E.o"
+	@echo "... codeforces/546E.i"
+	@echo "... codeforces/546E.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

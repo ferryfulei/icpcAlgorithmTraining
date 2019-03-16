@@ -8,38 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="CountPaths">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CountPaths" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+			<Target title="1754">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/1754" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -54,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountPaths"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 1754"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="CountPaths/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CountPaths" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+			<Target title="1754/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/1754" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -77,613 +67,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountPaths/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LPS">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LPS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LPS"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LPS/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LPS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LPS/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="MSPTriangle">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MSPTriangle" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MSPTriangle"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="MSPTriangle/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MSPTriangle" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MSPTriangle/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="MergeSort">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="MergeSort/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LCS3">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LCS3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LCS3"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LCS3/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LCS3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LCS3/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="WordBreakProblem">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/WordBreakProblem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordBreakProblem"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="WordBreakProblem/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/WordBreakProblem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordBreakProblem/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LobbNumber">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LobbNumber" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LobbNumber"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="LobbNumber/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/LobbNumber" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 LobbNumber/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="BubbleSort">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="BubbleSort/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="CountWays">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CountWays" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountWays"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="CountWays/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CountWays" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountWays/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="SelectionSort">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/SelectionSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="SelectionSort/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/SelectionSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="PartitionProblem">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/PartitionProblem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartitionProblem"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="PartitionProblem/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/PartitionProblem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartitionProblem/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="InsertionSort">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/InsertionSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 InsertionSort"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="InsertionSort/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/InsertionSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 InsertionSort/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ShortestCommonSuperstring">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/ShortestCommonSuperstring" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShortestCommonSuperstring"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="ShortestCommonSuperstring/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/ShortestCommonSuperstring" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShortestCommonSuperstring/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="QuickSort">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="QuickSort/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/7"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
-					<Add directory="/usr/include/c++/7/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 1754/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DiceThrow">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/DiceThrow" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/DiceThrow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -698,15 +90,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceThrow"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceThrow"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DiceThrow/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/DiceThrow" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/DiceThrow" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -721,15 +113,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceThrow/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceThrow/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MaxSumIS">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MaxSumIS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MaxSumIS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -744,15 +136,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaxSumIS"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaxSumIS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="MaxSumIS/fast">
-				<Option output="/homes/lf218/CLionProjects/untitled1/cmake-build-debug/MaxSumIS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/homes/lf218/CLionProjects/untitled1/cmake-build-debug"/>
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MaxSumIS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -767,62 +159,1062 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaxSumIS/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/CLionProjects/untitled1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaxSumIS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546A">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546A"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546A/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546A" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546A/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="QuickSort/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/QuickSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 QuickSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/InsertionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 InsertionSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="InsertionSort/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/InsertionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 InsertionSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartitionProblem">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/PartitionProblem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartitionProblem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartitionProblem/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/PartitionProblem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartitionProblem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/SelectionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/SelectionSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546E">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546E"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546E/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546E" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546E/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546D">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546D"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546D/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546D/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubbleSort">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BubbleSort/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/BubbleSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 BubbleSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountWays">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CountWays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountWays"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountWays/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CountWays" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountWays/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WordBreakProblem">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/WordBreakProblem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordBreakProblem"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WordBreakProblem/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/WordBreakProblem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 WordBreakProblem/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546B">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546B/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LCS3">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LCS3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LCS3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LCS3/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LCS3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LCS3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MergeSort/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MergeSort" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MergeSort/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1394">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/1394" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 1394"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1394/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/1394" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 1394/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MSPTriangle">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MSPTriangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MSPTriangle"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MSPTriangle/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/MSPTriangle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 MSPTriangle/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShortestCommonSuperstring">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/ShortestCommonSuperstring" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShortestCommonSuperstring"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ShortestCommonSuperstring/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/ShortestCommonSuperstring" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 ShortestCommonSuperstring/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LPS">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LPS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LPS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LPS/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LPS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LPS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountPaths">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CountPaths" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountPaths"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CountPaths/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CountPaths" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 CountPaths/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LobbNumber">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LobbNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LobbNumber"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LobbNumber/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/LobbNumber" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 LobbNumber/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546C">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546C"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="546C/fast">
+				<Option output="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/546C" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 546C/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/CountWays.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/CountWays.cpp">
 			<Option target="CountWays"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/DiceThrow.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/DiceThrow.cpp">
 			<Option target="DiceThrow"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/LCS3.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/LCS3.cpp">
 			<Option target="LCS3"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/LPS.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/LPS.cpp">
 			<Option target="LPS"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/LobbNumber.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/LobbNumber.cpp">
 			<Option target="LobbNumber"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/MSPTriangle.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/MSPTriangle.cpp">
 			<Option target="MSPTriangle"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/MaxSumIS.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/MaxSumIS.cpp">
 			<Option target="MaxSumIS"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/Maze.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/Maze.cpp">
 			<Option target="CountPaths"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/PartitionProblem.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/PartitionProblem.cpp">
 			<Option target="PartitionProblem"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/ShortestCommonSuperstring.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/ShortestCommonSuperstring.cpp">
 			<Option target="ShortestCommonSuperstring"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/DynamicProgramming/WordBreakProblem.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/WordBreakProblem.cpp">
 			<Option target="WordBreakProblem"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/SearchAndSort/BubbleSort.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/HDU/1394.cpp">
+			<Option target="1394"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/HDU/1754.cpp">
+			<Option target="1754"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/SearchAndSort/BubbleSort.cpp">
 			<Option target="BubbleSort"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/SearchAndSort/InsertionSort.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/SearchAndSort/InsertionSort.cpp">
 			<Option target="InsertionSort"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/SearchAndSort/MergeSort.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/SearchAndSort/MergeSort.cpp">
 			<Option target="MergeSort"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/SearchAndSort/QuickSort.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/SearchAndSort/QuickSort.cpp">
 			<Option target="QuickSort"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/SearchAndSort/SelectionSort.cpp">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/SearchAndSort/SelectionSort.cpp">
 			<Option target="SelectionSort"/>
 		</Unit>
-		<Unit filename="/homes/lf218/CLionProjects/untitled1/CMakeLists.txt">
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546A.cpp">
+			<Option target="546A"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546B.cpp">
+			<Option target="546B"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546C.cpp">
+			<Option target="546C"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546D.cpp">
+			<Option target="546D"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546E.cpp">
+			<Option target="546E"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/homes/lf218/Desktop/icpcAlgorithmTraining/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

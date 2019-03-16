@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/546C.dir/codeforces/546C.cpp.o  -o 546C 

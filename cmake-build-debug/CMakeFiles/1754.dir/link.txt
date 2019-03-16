@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1754.dir/HDU/1754.cpp.o  -o 1754 

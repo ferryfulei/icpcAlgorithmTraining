@@ -59,526 +59,45 @@ RM = /usr/lib/clion-2018.2.2/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /homes/lf218/CLionProjects/untitled1
+CMAKE_SOURCE_DIR = /homes/lf218/Desktop/icpcAlgorithmTraining
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /homes/lf218/CLionProjects/untitled1/cmake-build-debug
+CMAKE_BINARY_DIR = /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/CountPaths.dir
+# Target rules for target CMakeFiles/1754.dir
 
 # All Build rule for target.
-CMakeFiles/CountPaths.dir/all:
-	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/depend
-	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target CountPaths"
-.PHONY : CMakeFiles/CountPaths.dir/all
+CMakeFiles/1754.dir/all:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/depend
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target 1754"
+.PHONY : CMakeFiles/1754.dir/all
 
 # Include target in all.
-all: CMakeFiles/CountPaths.dir/all
+all: CMakeFiles/1754.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/CountPaths.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CountPaths.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CountPaths.dir/rule
+CMakeFiles/1754.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1754.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1754.dir/rule
 
 # Convenience name for target.
-CountPaths: CMakeFiles/CountPaths.dir/rule
+1754: CMakeFiles/1754.dir/rule
 
-.PHONY : CountPaths
-
-# clean rule for target.
-CMakeFiles/CountPaths.dir/clean:
-	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/clean
-.PHONY : CMakeFiles/CountPaths.dir/clean
+.PHONY : 1754
 
 # clean rule for target.
-clean: CMakeFiles/CountPaths.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/LPS.dir
-
-# All Build rule for target.
-CMakeFiles/LPS.dir/all:
-	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/depend
-	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target LPS"
-.PHONY : CMakeFiles/LPS.dir/all
-
-# Include target in all.
-all: CMakeFiles/LPS.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/LPS.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LPS.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/LPS.dir/rule
-
-# Convenience name for target.
-LPS: CMakeFiles/LPS.dir/rule
-
-.PHONY : LPS
+CMakeFiles/1754.dir/clean:
+	$(MAKE) -f CMakeFiles/1754.dir/build.make CMakeFiles/1754.dir/clean
+.PHONY : CMakeFiles/1754.dir/clean
 
 # clean rule for target.
-CMakeFiles/LPS.dir/clean:
-	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/clean
-.PHONY : CMakeFiles/LPS.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/LPS.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/MSPTriangle.dir
-
-# All Build rule for target.
-CMakeFiles/MSPTriangle.dir/all:
-	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/depend
-	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target MSPTriangle"
-.PHONY : CMakeFiles/MSPTriangle.dir/all
-
-# Include target in all.
-all: CMakeFiles/MSPTriangle.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/MSPTriangle.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MSPTriangle.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/MSPTriangle.dir/rule
-
-# Convenience name for target.
-MSPTriangle: CMakeFiles/MSPTriangle.dir/rule
-
-.PHONY : MSPTriangle
-
-# clean rule for target.
-CMakeFiles/MSPTriangle.dir/clean:
-	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/clean
-.PHONY : CMakeFiles/MSPTriangle.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/MSPTriangle.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/MergeSort.dir
-
-# All Build rule for target.
-CMakeFiles/MergeSort.dir/all:
-	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/depend
-	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target MergeSort"
-.PHONY : CMakeFiles/MergeSort.dir/all
-
-# Include target in all.
-all: CMakeFiles/MergeSort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/MergeSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MergeSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/MergeSort.dir/rule
-
-# Convenience name for target.
-MergeSort: CMakeFiles/MergeSort.dir/rule
-
-.PHONY : MergeSort
-
-# clean rule for target.
-CMakeFiles/MergeSort.dir/clean:
-	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/clean
-.PHONY : CMakeFiles/MergeSort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/MergeSort.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/LCS3.dir
-
-# All Build rule for target.
-CMakeFiles/LCS3.dir/all:
-	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/depend
-	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target LCS3"
-.PHONY : CMakeFiles/LCS3.dir/all
-
-# Include target in all.
-all: CMakeFiles/LCS3.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/LCS3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LCS3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/LCS3.dir/rule
-
-# Convenience name for target.
-LCS3: CMakeFiles/LCS3.dir/rule
-
-.PHONY : LCS3
-
-# clean rule for target.
-CMakeFiles/LCS3.dir/clean:
-	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/clean
-.PHONY : CMakeFiles/LCS3.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/LCS3.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/WordBreakProblem.dir
-
-# All Build rule for target.
-CMakeFiles/WordBreakProblem.dir/all:
-	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/depend
-	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target WordBreakProblem"
-.PHONY : CMakeFiles/WordBreakProblem.dir/all
-
-# Include target in all.
-all: CMakeFiles/WordBreakProblem.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/WordBreakProblem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/WordBreakProblem.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/WordBreakProblem.dir/rule
-
-# Convenience name for target.
-WordBreakProblem: CMakeFiles/WordBreakProblem.dir/rule
-
-.PHONY : WordBreakProblem
-
-# clean rule for target.
-CMakeFiles/WordBreakProblem.dir/clean:
-	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/clean
-.PHONY : CMakeFiles/WordBreakProblem.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/WordBreakProblem.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/LobbNumber.dir
-
-# All Build rule for target.
-CMakeFiles/LobbNumber.dir/all:
-	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/depend
-	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target LobbNumber"
-.PHONY : CMakeFiles/LobbNumber.dir/all
-
-# Include target in all.
-all: CMakeFiles/LobbNumber.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/LobbNumber.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LobbNumber.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/LobbNumber.dir/rule
-
-# Convenience name for target.
-LobbNumber: CMakeFiles/LobbNumber.dir/rule
-
-.PHONY : LobbNumber
-
-# clean rule for target.
-CMakeFiles/LobbNumber.dir/clean:
-	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/clean
-.PHONY : CMakeFiles/LobbNumber.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/LobbNumber.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/BubbleSort.dir
-
-# All Build rule for target.
-CMakeFiles/BubbleSort.dir/all:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/depend
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target BubbleSort"
-.PHONY : CMakeFiles/BubbleSort.dir/all
-
-# Include target in all.
-all: CMakeFiles/BubbleSort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/BubbleSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BubbleSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/BubbleSort.dir/rule
-
-# Convenience name for target.
-BubbleSort: CMakeFiles/BubbleSort.dir/rule
-
-.PHONY : BubbleSort
-
-# clean rule for target.
-CMakeFiles/BubbleSort.dir/clean:
-	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/clean
-.PHONY : CMakeFiles/BubbleSort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/BubbleSort.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/CountWays.dir
-
-# All Build rule for target.
-CMakeFiles/CountWays.dir/all:
-	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/depend
-	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target CountWays"
-.PHONY : CMakeFiles/CountWays.dir/all
-
-# Include target in all.
-all: CMakeFiles/CountWays.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/CountWays.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CountWays.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/CountWays.dir/rule
-
-# Convenience name for target.
-CountWays: CMakeFiles/CountWays.dir/rule
-
-.PHONY : CountWays
-
-# clean rule for target.
-CMakeFiles/CountWays.dir/clean:
-	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/clean
-.PHONY : CMakeFiles/CountWays.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/CountWays.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/SelectionSort.dir
-
-# All Build rule for target.
-CMakeFiles/SelectionSort.dir/all:
-	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/depend
-	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target SelectionSort"
-.PHONY : CMakeFiles/SelectionSort.dir/all
-
-# Include target in all.
-all: CMakeFiles/SelectionSort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/SelectionSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SelectionSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/SelectionSort.dir/rule
-
-# Convenience name for target.
-SelectionSort: CMakeFiles/SelectionSort.dir/rule
-
-.PHONY : SelectionSort
-
-# clean rule for target.
-CMakeFiles/SelectionSort.dir/clean:
-	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/clean
-.PHONY : CMakeFiles/SelectionSort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/SelectionSort.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/PartitionProblem.dir
-
-# All Build rule for target.
-CMakeFiles/PartitionProblem.dir/all:
-	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/depend
-	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target PartitionProblem"
-.PHONY : CMakeFiles/PartitionProblem.dir/all
-
-# Include target in all.
-all: CMakeFiles/PartitionProblem.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/PartitionProblem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/PartitionProblem.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/PartitionProblem.dir/rule
-
-# Convenience name for target.
-PartitionProblem: CMakeFiles/PartitionProblem.dir/rule
-
-.PHONY : PartitionProblem
-
-# clean rule for target.
-CMakeFiles/PartitionProblem.dir/clean:
-	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/clean
-.PHONY : CMakeFiles/PartitionProblem.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/PartitionProblem.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/InsertionSort.dir
-
-# All Build rule for target.
-CMakeFiles/InsertionSort.dir/all:
-	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/depend
-	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target InsertionSort"
-.PHONY : CMakeFiles/InsertionSort.dir/all
-
-# Include target in all.
-all: CMakeFiles/InsertionSort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/InsertionSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/InsertionSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/InsertionSort.dir/rule
-
-# Convenience name for target.
-InsertionSort: CMakeFiles/InsertionSort.dir/rule
-
-.PHONY : InsertionSort
-
-# clean rule for target.
-CMakeFiles/InsertionSort.dir/clean:
-	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/clean
-.PHONY : CMakeFiles/InsertionSort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/InsertionSort.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/ShortestCommonSuperstring.dir
-
-# All Build rule for target.
-CMakeFiles/ShortestCommonSuperstring.dir/all:
-	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/depend
-	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target ShortestCommonSuperstring"
-.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/all
-
-# Include target in all.
-all: CMakeFiles/ShortestCommonSuperstring.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/ShortestCommonSuperstring.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ShortestCommonSuperstring.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/rule
-
-# Convenience name for target.
-ShortestCommonSuperstring: CMakeFiles/ShortestCommonSuperstring.dir/rule
-
-.PHONY : ShortestCommonSuperstring
-
-# clean rule for target.
-CMakeFiles/ShortestCommonSuperstring.dir/clean:
-	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/clean
-.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/ShortestCommonSuperstring.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/QuickSort.dir
-
-# All Build rule for target.
-CMakeFiles/QuickSort.dir/all:
-	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/depend
-	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target QuickSort"
-.PHONY : CMakeFiles/QuickSort.dir/all
-
-# Include target in all.
-all: CMakeFiles/QuickSort.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/QuickSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/QuickSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/QuickSort.dir/rule
-
-# Convenience name for target.
-QuickSort: CMakeFiles/QuickSort.dir/rule
-
-.PHONY : QuickSort
-
-# clean rule for target.
-CMakeFiles/QuickSort.dir/clean:
-	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/clean
-.PHONY : CMakeFiles/QuickSort.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/QuickSort.dir/clean
+clean: CMakeFiles/1754.dir/clean
 
 .PHONY : clean
 
@@ -589,7 +108,7 @@ clean: CMakeFiles/QuickSort.dir/clean
 CMakeFiles/DiceThrow.dir/all:
 	$(MAKE) -f CMakeFiles/DiceThrow.dir/build.make CMakeFiles/DiceThrow.dir/depend
 	$(MAKE) -f CMakeFiles/DiceThrow.dir/build.make CMakeFiles/DiceThrow.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target DiceThrow"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target DiceThrow"
 .PHONY : CMakeFiles/DiceThrow.dir/all
 
 # Include target in all.
@@ -599,9 +118,9 @@ all: CMakeFiles/DiceThrow.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/DiceThrow.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/DiceThrow.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/DiceThrow.dir/rule
 
 # Convenience name for target.
@@ -626,7 +145,7 @@ clean: CMakeFiles/DiceThrow.dir/clean
 CMakeFiles/MaxSumIS.dir/all:
 	$(MAKE) -f CMakeFiles/MaxSumIS.dir/build.make CMakeFiles/MaxSumIS.dir/depend
 	$(MAKE) -f CMakeFiles/MaxSumIS.dir/build.make CMakeFiles/MaxSumIS.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target MaxSumIS"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=33,34 "Built target MaxSumIS"
 .PHONY : CMakeFiles/MaxSumIS.dir/all
 
 # Include target in all.
@@ -636,9 +155,9 @@ all: CMakeFiles/MaxSumIS.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MaxSumIS.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MaxSumIS.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/MaxSumIS.dir/rule
 
 # Convenience name for target.
@@ -653,6 +172,783 @@ CMakeFiles/MaxSumIS.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/MaxSumIS.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/546A.dir
+
+# All Build rule for target.
+CMakeFiles/546A.dir/all:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/depend
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 546A"
+.PHONY : CMakeFiles/546A.dir/all
+
+# Include target in all.
+all: CMakeFiles/546A.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/546A.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/546A.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/546A.dir/rule
+
+# Convenience name for target.
+546A: CMakeFiles/546A.dir/rule
+
+.PHONY : 546A
+
+# clean rule for target.
+CMakeFiles/546A.dir/clean:
+	$(MAKE) -f CMakeFiles/546A.dir/build.make CMakeFiles/546A.dir/clean
+.PHONY : CMakeFiles/546A.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/546A.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/QuickSort.dir
+
+# All Build rule for target.
+CMakeFiles/QuickSort.dir/all:
+	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/depend
+	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target QuickSort"
+.PHONY : CMakeFiles/QuickSort.dir/all
+
+# Include target in all.
+all: CMakeFiles/QuickSort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/QuickSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/QuickSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/QuickSort.dir/rule
+
+# Convenience name for target.
+QuickSort: CMakeFiles/QuickSort.dir/rule
+
+.PHONY : QuickSort
+
+# clean rule for target.
+CMakeFiles/QuickSort.dir/clean:
+	$(MAKE) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/clean
+.PHONY : CMakeFiles/QuickSort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/QuickSort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/InsertionSort.dir
+
+# All Build rule for target.
+CMakeFiles/InsertionSort.dir/all:
+	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/depend
+	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target InsertionSort"
+.PHONY : CMakeFiles/InsertionSort.dir/all
+
+# Include target in all.
+all: CMakeFiles/InsertionSort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/InsertionSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/InsertionSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/InsertionSort.dir/rule
+
+# Convenience name for target.
+InsertionSort: CMakeFiles/InsertionSort.dir/rule
+
+.PHONY : InsertionSort
+
+# clean rule for target.
+CMakeFiles/InsertionSort.dir/clean:
+	$(MAKE) -f CMakeFiles/InsertionSort.dir/build.make CMakeFiles/InsertionSort.dir/clean
+.PHONY : CMakeFiles/InsertionSort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/InsertionSort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/PartitionProblem.dir
+
+# All Build rule for target.
+CMakeFiles/PartitionProblem.dir/all:
+	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/depend
+	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target PartitionProblem"
+.PHONY : CMakeFiles/PartitionProblem.dir/all
+
+# Include target in all.
+all: CMakeFiles/PartitionProblem.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/PartitionProblem.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/PartitionProblem.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/PartitionProblem.dir/rule
+
+# Convenience name for target.
+PartitionProblem: CMakeFiles/PartitionProblem.dir/rule
+
+.PHONY : PartitionProblem
+
+# clean rule for target.
+CMakeFiles/PartitionProblem.dir/clean:
+	$(MAKE) -f CMakeFiles/PartitionProblem.dir/build.make CMakeFiles/PartitionProblem.dir/clean
+.PHONY : CMakeFiles/PartitionProblem.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/PartitionProblem.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SelectionSort.dir
+
+# All Build rule for target.
+CMakeFiles/SelectionSort.dir/all:
+	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/depend
+	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target SelectionSort"
+.PHONY : CMakeFiles/SelectionSort.dir/all
+
+# Include target in all.
+all: CMakeFiles/SelectionSort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SelectionSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SelectionSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/SelectionSort.dir/rule
+
+# Convenience name for target.
+SelectionSort: CMakeFiles/SelectionSort.dir/rule
+
+.PHONY : SelectionSort
+
+# clean rule for target.
+CMakeFiles/SelectionSort.dir/clean:
+	$(MAKE) -f CMakeFiles/SelectionSort.dir/build.make CMakeFiles/SelectionSort.dir/clean
+.PHONY : CMakeFiles/SelectionSort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/SelectionSort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/546E.dir
+
+# All Build rule for target.
+CMakeFiles/546E.dir/all:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/depend
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target 546E"
+.PHONY : CMakeFiles/546E.dir/all
+
+# Include target in all.
+all: CMakeFiles/546E.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/546E.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/546E.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/546E.dir/rule
+
+# Convenience name for target.
+546E: CMakeFiles/546E.dir/rule
+
+.PHONY : 546E
+
+# clean rule for target.
+CMakeFiles/546E.dir/clean:
+	$(MAKE) -f CMakeFiles/546E.dir/build.make CMakeFiles/546E.dir/clean
+.PHONY : CMakeFiles/546E.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/546E.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/546D.dir
+
+# All Build rule for target.
+CMakeFiles/546D.dir/all:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/depend
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target 546D"
+.PHONY : CMakeFiles/546D.dir/all
+
+# Include target in all.
+all: CMakeFiles/546D.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/546D.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/546D.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/546D.dir/rule
+
+# Convenience name for target.
+546D: CMakeFiles/546D.dir/rule
+
+.PHONY : 546D
+
+# clean rule for target.
+CMakeFiles/546D.dir/clean:
+	$(MAKE) -f CMakeFiles/546D.dir/build.make CMakeFiles/546D.dir/clean
+.PHONY : CMakeFiles/546D.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/546D.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/BubbleSort.dir
+
+# All Build rule for target.
+CMakeFiles/BubbleSort.dir/all:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/depend
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target BubbleSort"
+.PHONY : CMakeFiles/BubbleSort.dir/all
+
+# Include target in all.
+all: CMakeFiles/BubbleSort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/BubbleSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/BubbleSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/BubbleSort.dir/rule
+
+# Convenience name for target.
+BubbleSort: CMakeFiles/BubbleSort.dir/rule
+
+.PHONY : BubbleSort
+
+# clean rule for target.
+CMakeFiles/BubbleSort.dir/clean:
+	$(MAKE) -f CMakeFiles/BubbleSort.dir/build.make CMakeFiles/BubbleSort.dir/clean
+.PHONY : CMakeFiles/BubbleSort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/BubbleSort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CountWays.dir
+
+# All Build rule for target.
+CMakeFiles/CountWays.dir/all:
+	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/depend
+	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target CountWays"
+.PHONY : CMakeFiles/CountWays.dir/all
+
+# Include target in all.
+all: CMakeFiles/CountWays.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CountWays.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CountWays.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CountWays.dir/rule
+
+# Convenience name for target.
+CountWays: CMakeFiles/CountWays.dir/rule
+
+.PHONY : CountWays
+
+# clean rule for target.
+CMakeFiles/CountWays.dir/clean:
+	$(MAKE) -f CMakeFiles/CountWays.dir/build.make CMakeFiles/CountWays.dir/clean
+.PHONY : CMakeFiles/CountWays.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CountWays.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/WordBreakProblem.dir
+
+# All Build rule for target.
+CMakeFiles/WordBreakProblem.dir/all:
+	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/depend
+	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target WordBreakProblem"
+.PHONY : CMakeFiles/WordBreakProblem.dir/all
+
+# Include target in all.
+all: CMakeFiles/WordBreakProblem.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/WordBreakProblem.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/WordBreakProblem.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/WordBreakProblem.dir/rule
+
+# Convenience name for target.
+WordBreakProblem: CMakeFiles/WordBreakProblem.dir/rule
+
+.PHONY : WordBreakProblem
+
+# clean rule for target.
+CMakeFiles/WordBreakProblem.dir/clean:
+	$(MAKE) -f CMakeFiles/WordBreakProblem.dir/build.make CMakeFiles/WordBreakProblem.dir/clean
+.PHONY : CMakeFiles/WordBreakProblem.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/WordBreakProblem.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/546B.dir
+
+# All Build rule for target.
+CMakeFiles/546B.dir/all:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/depend
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target 546B"
+.PHONY : CMakeFiles/546B.dir/all
+
+# Include target in all.
+all: CMakeFiles/546B.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/546B.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/546B.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/546B.dir/rule
+
+# Convenience name for target.
+546B: CMakeFiles/546B.dir/rule
+
+.PHONY : 546B
+
+# clean rule for target.
+CMakeFiles/546B.dir/clean:
+	$(MAKE) -f CMakeFiles/546B.dir/build.make CMakeFiles/546B.dir/clean
+.PHONY : CMakeFiles/546B.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/546B.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LCS3.dir
+
+# All Build rule for target.
+CMakeFiles/LCS3.dir/all:
+	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/depend
+	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=25,26 "Built target LCS3"
+.PHONY : CMakeFiles/LCS3.dir/all
+
+# Include target in all.
+all: CMakeFiles/LCS3.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LCS3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LCS3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LCS3.dir/rule
+
+# Convenience name for target.
+LCS3: CMakeFiles/LCS3.dir/rule
+
+.PHONY : LCS3
+
+# clean rule for target.
+CMakeFiles/LCS3.dir/clean:
+	$(MAKE) -f CMakeFiles/LCS3.dir/build.make CMakeFiles/LCS3.dir/clean
+.PHONY : CMakeFiles/LCS3.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LCS3.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/MergeSort.dir
+
+# All Build rule for target.
+CMakeFiles/MergeSort.dir/all:
+	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/depend
+	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=35,36 "Built target MergeSort"
+.PHONY : CMakeFiles/MergeSort.dir/all
+
+# Include target in all.
+all: CMakeFiles/MergeSort.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/MergeSort.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MergeSort.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/MergeSort.dir/rule
+
+# Convenience name for target.
+MergeSort: CMakeFiles/MergeSort.dir/rule
+
+.PHONY : MergeSort
+
+# clean rule for target.
+CMakeFiles/MergeSort.dir/clean:
+	$(MAKE) -f CMakeFiles/MergeSort.dir/build.make CMakeFiles/MergeSort.dir/clean
+.PHONY : CMakeFiles/MergeSort.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/MergeSort.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1394.dir
+
+# All Build rule for target.
+CMakeFiles/1394.dir/all:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/depend
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target 1394"
+.PHONY : CMakeFiles/1394.dir/all
+
+# Include target in all.
+all: CMakeFiles/1394.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1394.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/1394.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/1394.dir/rule
+
+# Convenience name for target.
+1394: CMakeFiles/1394.dir/rule
+
+.PHONY : 1394
+
+# clean rule for target.
+CMakeFiles/1394.dir/clean:
+	$(MAKE) -f CMakeFiles/1394.dir/build.make CMakeFiles/1394.dir/clean
+.PHONY : CMakeFiles/1394.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/1394.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/MSPTriangle.dir
+
+# All Build rule for target.
+CMakeFiles/MSPTriangle.dir/all:
+	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/depend
+	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target MSPTriangle"
+.PHONY : CMakeFiles/MSPTriangle.dir/all
+
+# Include target in all.
+all: CMakeFiles/MSPTriangle.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/MSPTriangle.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MSPTriangle.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/MSPTriangle.dir/rule
+
+# Convenience name for target.
+MSPTriangle: CMakeFiles/MSPTriangle.dir/rule
+
+.PHONY : MSPTriangle
+
+# clean rule for target.
+CMakeFiles/MSPTriangle.dir/clean:
+	$(MAKE) -f CMakeFiles/MSPTriangle.dir/build.make CMakeFiles/MSPTriangle.dir/clean
+.PHONY : CMakeFiles/MSPTriangle.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/MSPTriangle.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/ShortestCommonSuperstring.dir
+
+# All Build rule for target.
+CMakeFiles/ShortestCommonSuperstring.dir/all:
+	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/depend
+	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target ShortestCommonSuperstring"
+.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/all
+
+# Include target in all.
+all: CMakeFiles/ShortestCommonSuperstring.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/ShortestCommonSuperstring.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ShortestCommonSuperstring.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/rule
+
+# Convenience name for target.
+ShortestCommonSuperstring: CMakeFiles/ShortestCommonSuperstring.dir/rule
+
+.PHONY : ShortestCommonSuperstring
+
+# clean rule for target.
+CMakeFiles/ShortestCommonSuperstring.dir/clean:
+	$(MAKE) -f CMakeFiles/ShortestCommonSuperstring.dir/build.make CMakeFiles/ShortestCommonSuperstring.dir/clean
+.PHONY : CMakeFiles/ShortestCommonSuperstring.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/ShortestCommonSuperstring.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/main.dir
+
+# All Build rule for target.
+CMakeFiles/main.dir/all:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target main"
+.PHONY : CMakeFiles/main.dir/all
+
+# Include target in all.
+all: CMakeFiles/main.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/main.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/main.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/main.dir/rule
+
+# Convenience name for target.
+main: CMakeFiles/main.dir/rule
+
+.PHONY : main
+
+# clean rule for target.
+CMakeFiles/main.dir/clean:
+	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/clean
+.PHONY : CMakeFiles/main.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/main.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LPS.dir
+
+# All Build rule for target.
+CMakeFiles/LPS.dir/all:
+	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/depend
+	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target LPS"
+.PHONY : CMakeFiles/LPS.dir/all
+
+# Include target in all.
+all: CMakeFiles/LPS.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LPS.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LPS.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LPS.dir/rule
+
+# Convenience name for target.
+LPS: CMakeFiles/LPS.dir/rule
+
+.PHONY : LPS
+
+# clean rule for target.
+CMakeFiles/LPS.dir/clean:
+	$(MAKE) -f CMakeFiles/LPS.dir/build.make CMakeFiles/LPS.dir/clean
+.PHONY : CMakeFiles/LPS.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LPS.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CountPaths.dir
+
+# All Build rule for target.
+CMakeFiles/CountPaths.dir/all:
+	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/depend
+	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target CountPaths"
+.PHONY : CMakeFiles/CountPaths.dir/all
+
+# Include target in all.
+all: CMakeFiles/CountPaths.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CountPaths.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/CountPaths.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/CountPaths.dir/rule
+
+# Convenience name for target.
+CountPaths: CMakeFiles/CountPaths.dir/rule
+
+.PHONY : CountPaths
+
+# clean rule for target.
+CMakeFiles/CountPaths.dir/clean:
+	$(MAKE) -f CMakeFiles/CountPaths.dir/build.make CMakeFiles/CountPaths.dir/clean
+.PHONY : CMakeFiles/CountPaths.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/CountPaths.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LobbNumber.dir
+
+# All Build rule for target.
+CMakeFiles/LobbNumber.dir/all:
+	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/depend
+	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target LobbNumber"
+.PHONY : CMakeFiles/LobbNumber.dir/all
+
+# Include target in all.
+all: CMakeFiles/LobbNumber.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LobbNumber.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LobbNumber.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LobbNumber.dir/rule
+
+# Convenience name for target.
+LobbNumber: CMakeFiles/LobbNumber.dir/rule
+
+.PHONY : LobbNumber
+
+# clean rule for target.
+CMakeFiles/LobbNumber.dir/clean:
+	$(MAKE) -f CMakeFiles/LobbNumber.dir/build.make CMakeFiles/LobbNumber.dir/clean
+.PHONY : CMakeFiles/LobbNumber.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LobbNumber.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/546C.dir
+
+# All Build rule for target.
+CMakeFiles/546C.dir/all:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/depend
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target 546C"
+.PHONY : CMakeFiles/546C.dir/all
+
+# Include target in all.
+all: CMakeFiles/546C.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/546C.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/546C.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/546C.dir/rule
+
+# Convenience name for target.
+546C: CMakeFiles/546C.dir/rule
+
+.PHONY : 546C
+
+# clean rule for target.
+CMakeFiles/546C.dir/clean:
+	$(MAKE) -f CMakeFiles/546C.dir/build.make CMakeFiles/546C.dir/clean
+.PHONY : CMakeFiles/546C.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/546C.dir/clean
 
 .PHONY : clean
 

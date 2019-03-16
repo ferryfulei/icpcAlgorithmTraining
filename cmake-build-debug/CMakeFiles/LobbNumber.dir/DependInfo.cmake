@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/homes/lf218/CLionProjects/untitled1/DynamicProgramming/LobbNumber.cpp" "/homes/lf218/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/LobbNumber.dir/DynamicProgramming/LobbNumber.cpp.o"
+  "/homes/lf218/Desktop/icpcAlgorithmTraining/DynamicProgramming/LobbNumber.cpp" "/homes/lf218/Desktop/icpcAlgorithmTraining/cmake-build-debug/CMakeFiles/LobbNumber.dir/DynamicProgramming/LobbNumber.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

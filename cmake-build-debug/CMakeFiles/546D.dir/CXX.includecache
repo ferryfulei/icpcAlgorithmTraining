@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/homes/lf218/Desktop/icpcAlgorithmTraining/codeforces/546D.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+

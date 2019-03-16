@@ -4,37 +4,29 @@
 #include <stdio.h>
 #include <string.h>
 #include <iostream>
-#define R 4
-#define C 4
+
 
 using namespace std;
 
-int countPaths(int maze[][C]) {
-    if (maze[0][0] == -1) return 0;
-    for (int i = 0; i < R; ++i) {
-        if (maze[i][0] == 0) maze[i][0] = 1;
-        else break;
+int main () {
+    int n, m, k; cin >> n >> m >> k;
+    int student[n + 1];
+    int arr[m + 1];
+    for (int i = 1; i < m + 1; m++) arr[i] = 0;
+    for (int i = 1; i < n + 1; i++) {
+        cin >> student[i];
     }
-    for (int i = 1; i < C; ++i) {
-        if (maze[0][i] == 0) maze[0][i] = 1;
-        else break;
+    int school[n + 1];
+    for (int i = 1; i < n + 1; i++) {
+        int s; cin >> s;
+        school[i] = s;
+        if (student[i] > arr[s]) arr[s] = student[i];
     }
-    for (int i = 1; i < R; ++i) {
-        for (int j = 1; j < C; ++j) {
-            if (maze[i][j] == -1) continue;
-            if (maze[i - 1][j] > 0) maze[i][j] += maze[i - 1][j];
-            if (maze[i][j - 1] > 0) maze[i][j] += maze[i][j - 1];
-        }
+    int res = 0;
+    for (int i = 0; i < k; i++) {
+        int h; cin >> h;
+        if (arr[school[h]] != student[h]) i++;
     }
-    return (maze[R-1][C-1] > 0)? maze[R-1][C-1] : 0;
-}
-
-int main()
-{
-    int maze[R][C] =  {{0,  0, 0, 0},
-                       {0, -1, 0, 0},
-                       {-1, 0, 0, 0},
-                       {0,  0, 0, 0}};
-    cout << countPaths(maze);
+    cout << res << endl;
     return 0;
 }
